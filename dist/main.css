@@ -1,12 +1,12 @@
-a {
+.a {
   color: blue;
 }
 
-a {
+.b {
   color: cyan;
 }
 
-a.-black {
+.-black.b {
   color: black;
 }
 

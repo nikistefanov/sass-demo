@@ -8,10 +8,10 @@
     }
 }
 
-a {
+.a {
   @extend %default-link;
 }
 
-a {
+.b {
     @extend %default-link-not-module;
-  }
+}
