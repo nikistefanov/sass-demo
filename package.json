@@ -1,0 +1,22 @@
+{
+  "name": "sass-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --style=expanded src/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikistefanov/sass-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikistefanov/sass-demo/issues"
+  },
+  "homepage": "https://github.com/nikistefanov/sass-demo#readme",
+  "devDependencies": {
+    "sass": "^1.32.0"
+  }
+}

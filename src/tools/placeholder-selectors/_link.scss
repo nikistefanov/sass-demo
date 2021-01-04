@@ -1,0 +1,7 @@
+%default-link {
+    color: blue;
+    
+    &.-red {
+        color: red;
+    }
+}

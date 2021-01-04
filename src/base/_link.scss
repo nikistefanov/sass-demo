@@ -1,0 +1,17 @@
+@use "../tools/placeholder-selectors/link";
+
+%default-link-not-module {
+    color: cyan;
+    
+    &.-black {
+        color: black;
+    }
+}
+
+a {
+  @extend %default-link;
+}
+
+a {
+    @extend %default-link-not-module;
+  }
